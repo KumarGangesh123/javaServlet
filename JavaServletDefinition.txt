@@ -1,0 +1,16 @@
+Servlet => 
+
+    In Java , servlet is a java language class which is use to extend the capabilities of server side request-response model.
+    
+    
+Creating Servlet =>
+
+    Servlet can be created by three ways 
+    
+    1 . implementating Servlet interface
+    
+    2 . extending GenericServlet class.
+    
+    3 . extending HttpServlet class 
+    
+    
